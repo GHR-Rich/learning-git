@@ -1,4 +1,4 @@
-action,owner,due_date
-Follow up with Todd on next steps.,,
-Send the deck to founders.,,
-Review pipeline conversion notes.,,
+action,owner,due_date,account,priority,confidence,source_line
+P1 Account: Buf - Follow up with Peter on next steps.,,,Buf,P1,Medium,1
+P2 Account: Scylla - Send slack to Pierre & SJ with link to training deck.,,,Scylla,P2,Medium,2
+Action: Schedule training dry run (Owner: Rich) (Due: 2026-01-20),Rich,2026-01-20,,,High,3
