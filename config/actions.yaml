@@ -1,0 +1,14 @@
+# Keywords that indicate a line is an action item
+action_keywords:
+  - "follow up"
+  - "send"
+  - "review"
+  - "schedule"
+  - "confirm"
+  - "action:"
+
+# Optional: simple prefixes that strongly imply action items
+action_prefixes:
+  - "- [ ]"
+  - "TODO:"
+  - "Next step:"
