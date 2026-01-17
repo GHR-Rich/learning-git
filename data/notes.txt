@@ -1,3 +1,4 @@
-Follow up with Todd on next steps.
-Send the deck to founders.
-Review pipeline conversion notes.
+P1 Account: Buf - Follow up with Peter on next steps.
+P2 Account: Scylla - Send slack to Pierre & SJ with link to training deck.
+Action: Schedule training dry run (Owner: Rich) (Due: 2026-01-20)
+
